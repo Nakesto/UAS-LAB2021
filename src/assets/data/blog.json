@@ -1,0 +1,192 @@
+[
+    {
+      "id": 1,
+      "user": "Vincent Gunawan",
+      "images": "https://www.indoworx.com/file/2017/12/pexels.com-FILEminimizer-3.jpg",
+      "tanggal": "08-09-2021",
+      "kategori": "Teknologi",
+      "judul": "4 Tips and Trick Menggunakan Framework PHP",
+      "isi": "Proses pengembangan website dan aplikasi dulu terkenal sangat sulit, rumit dan membutuhkan waktu yang cukup lama. Lantaran membangun situs web dan aplikasi yang kompleks dan dengan kerumitan tertentu pastilah menyita terlalu banyak waktu untuk selalu memulai dari awal. Semenjak munculnya framework, para programmer dan developer dapat dengan mudah membuat dan mengembangkan aplikasi atau website secara lebih cepat dan terstruktur. Di kalangan orang awam yang baru belajar pemrograman mungkin istilah framework terdengar asing Sebelum belajar lebih jauh tentang framework, ada baiknya jika kita memahami pengertian framework terlebih dahulu. Framework adalah kerangka kerja yang digunakan untuk mengembangkan aplikasi berbasis desktop atau website. Framework berisikan kumpulan fungsi-fungsi dasar atau perintah yang biasa digunakan dalam mengembangkan suatu software di antaranya plugin dan konsep untuk membentuk suatu sistem tertentu agar tersusun dan terstruktur dengan rapi. Dengan adanya framework, seorang developer hanya perlu menyusun komponen-komponen pemrograman yang sudah jadi. Sehingga mereka tidak perlu melakukan coding program secara berulang-ulang."
+    },
+    {
+      "id": 2,
+      "user": "Sahilluqman",
+      "images": "https://blogger.googleusercontent.com/img/a/AVvXsEi3zgvyLZ30BOqsfNmEFF_ubKBX3zcDcmlkS1fGNM4ry36KZddrZch6GGUYKhSBSUcc_4QdM7CeSSNROn1iz46ajog71noqMnpTsOMgZ4YXiQ-Q6o1_5poPRlQFDiTMawiKpW5v9mLMOtYbfILFVD3CX3sDigFi91wdKELO0cHjAPZtpnEjntXgArl7=w400-h225-p-k-no-nu",
+      "tanggal": "10-10-2021",
+      "kategori": "General",
+      "judul": "Kesamaan antara Abraham Lincoln dan John Franklin Kennedy Presiden Amerika Serikat",
+      "isi": "John Franklin Kennedy, dikenal dengan panggilan 'Jack' atau inisial JFK, adalah Presiden Amerika Serikat ke-35 yang menjabat sejak Januari 1961 sampai dibunuh bulan November 1963."
+    },
+    {
+      "id": 3,
+      "user": "Sahilluqman",
+      "images": "https://images.unsplash.com/photo-1633114128174-2f8aa49759b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "tanggal": "12-01-2021",
+      "kategori": "Teknologi",
+      "judul": "10 HP Android Gaming Terkencang di Dunia 2021",
+      "isi": "Semua smartphone yang masuk dalam daftar 10 besar kali ini, ditenagai chipset Qualcomm Snapdragon 888. Kendati chipset yang dipakai sama, perbedaan nilai antara ponsel urutan teratas dan terbawah cukup besar, yakni 67.000 poin. Rata-rata, smartphone dalam daftar ini dibekali RAM berkapasitas 12 GB. Hanya Black Shark 4 Pro yang dibekali RAM 16 GB dan menjadi ponsel dengan kapasitas paling besar dalam daftar.  Ponsel dengan kapasitas RAM terkecil dalam daftar 10 Smartphone Android Gaming Terkencang di Dunia adalah Meizu 18 dengan RAM berkapasitas 8 GB."
+    },
+    {
+      "id": 4,
+      "user": "Budi",
+      "images": "https://ceriwit.my.id/wp-content/uploads/2021/09/Screenshot-2021-09-11-at-07-59-24-windows-11-Google-Search-200x135.png",
+      "tanggal": "20-09-2021",
+      "kategori": "Teknologi",
+      "judul": "10 Fitur Menyenangkan di Windows 11 Baru yang Layak Digunakan",
+      "isi": "Windows 11 menyajikan antar muka pengguna (UI) yang clear dan modern dengan sudut membulat dan nuansa pastel. Perubahan terbesar yang akan Anda lihatadalah posisi baru Taskbar dengan Start Menu. UI-nya lebih halus dan menawarkan fungsionalitas lebih dari iterasi Windows sebelumnya."
+    },
+    {
+      "id": 5,
+      "user": "Sahilluqman",
+      "images": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/02/2940635285.png",
+      "tanggal": "10-11-2021",
+      "kategori": "Pendidikan",
+      "judul": "Kisi Soal CPNS 2021 Pembahasan Lengkap Juni 2021",
+      "isi": "Kisi-kisi Soal, Syarat daftar, Jadwal Lengkap Seleksi CPNS 2021 Juni 2021 - Ujian dalam seleksi Calon Pegawai Negeri Sipil (CPNS) 2021 yang akan dilakukan dalam sistem Computer Assisted Test (CAT). Sitem tes CPNS ini mengusung tiga sifat utama, yaitu cepat, akuntabel, dan transparant. Melansir laman resmi Badan Kepegawaian Negara (BKN), pendaftaran CPNS akan dilaksanakan secara online melalui Sistem Seleksi Calon Aparatur Sipil Negara (SSCASN)."
+    },
+    {
+      "id": 6,
+      "user": "Mawar",
+      "images": "https://1.bp.blogspot.com/-W6LuGYuFu10/YTrhtRQiNSI/AAAAAAAAHqM/np4uoa5_D4UKVnv83eVnJ8tNuARbunjKQCLcBGAsYHQ/w400-h225-p-k-no-nu/Screenshot%2B2021-09-08%2Bat%2B16-06-17%2BFoto%2BCara%2BCek%2BBantuan%2BUMKM%2Bdan%2BAmbil%2BAntrean%2BSecara%2BOnline%2BHalaman%2B1.png",
+      "tanggal": "18-09-2021",
+      "kategori": "Ekonomi",
+      "judul": "Cara Cek Penerima UMKM Tahap 3 dan Mendapatkan Nomor Antreannya",
+      "isi": "Cara Cek Bantuan UMKM Tahap 3 - Simak cara cek Cara Cek Bantuan UMKM Tahap 3 dan memesan antrean secara online bagi Anda yang berhak mendapatkannya. Diketahui, pemerintah mengucurkan bantuan Presiden Produktif Usaha Mikro (BPUM) atau biasa disebut penerima UMKM sebesar Rp 1,2 juta. Pelaku usaha mikro hanya bisa mencairkan satu kali dana UMKM tersebut. Bantuan BLT tersebut diturunkan melalui BRI."
+    },
+    {
+      "id": 7,
+      "user": "M. Reza Sulaiman ",
+      "images": "https://media.suara.com/pictures/653x366/2020/06/24/16690-blog.jpg",
+      "tanggal": "10-11-2021",
+      "kategori": "Teknologi",
+      "judul": "Meski Sama-sama Berbentuk Tulisan, Ini Perbedaan Blog dengan Microblog",
+      "isi": "Blog menurutnya biasa diisi tulisan panjang dengan memperhatikan kaidah SEO. Di sisi lain microblog lebih digunakan untuk memanfaatkan media sosial untuk menuliskan gagasan."
+    },
+    {
+      "id": 8,
+      "user": "Chandra Iswinarno",
+      "images": "https://media.suara.com/pictures/653x366/2017/07/28/47307-ketua-pengurus-harian-ylki-tulus-abadi-di-jakarta.jpg",
+      "tanggal": "26-10-2021",
+      "kategori": "Ekonomi",
+      "judul": "Kenaikan Tarif Cukai Tembakau 12 Persen Disebut Hanya untuk Kepentingan Ekonomi Negara",
+      "isi": "Ketua Harian YLKI Tulus Abadi mengatakan, cukai rokok dinaikan menjadi 12 persen itu belum efektif melindungi konsumen agar tidak semakin besar dalam mengkonsumsi rokok."
+    },
+    {
+      "id": 9,
+      "user": "Supoyo Supardi",
+      "images": "https://1.bp.blogspot.com/-tdFaSm-nOlk/YKtkrH9ySoI/AAAAAAAAHgU/lqvL4TrcKUAE5cV9ZA35RaIpbIpFi91EQCLcBGAsYHQ/w400-h225-p-k-no-nu/Capture.JPG",
+      "tanggal": "20-09-2021",
+      "kategori": "Pendidikan",
+      "judul": "Petunjuk Penulisan Ijazah SMA Tahun Pelajaran 2020/2021 - Terbaru!",
+      "isi": "Petunjuk Penulisan Ijazah SMA Tahun Pelajaran 2020/2021 - Tata cara penulisan ijazah SMA Tahun Pelajaran 2020/2021 saat ini sudah berbeda dengan tahun Pelajaran 2019/2020 lalu. Perbedaannya cukup signifikan. Mulai dari perbedaan blanko ijazah SMA tahun lalu dengan saat ini.) Selain itu, sesuai surat edaran Menteri Pendidikan dalam masa pandemi ini menjadi perihal dasar perbedaan panduan teknis penulisan ijazah SMa tahun ini. "
+    },
+    {
+      "id": 10,
+      "user": "Mamat Sulaiman",
+      "images": "https://1.bp.blogspot.com/-Alsz_nJy0tM/YKN0dRc6LeI/AAAAAAAAHgI/YQA3pDk9noQDrdwQoEBUbvcV_kLvvPcawCLcBGAsYHQ/w400-h225-p-k-no-nu/Screenshot_2021-05-18%2BPowerPoint%2BPresentation%2B-%2BPanduan%2BKTSP%2BSMA%2BProvinsi%2BJawa%2BTengah%2Bpdf%25286%2529.png",
+      "tanggal": "28-09-2021",
+      "kategori": "Pendidikan",
+      "judul": "Panduan Penulisan KTSP SMA TA 2021-2022",
+      "isi": "Kurikulum Tingkat Satuan Pendidikan (KTSP) adalah kurikulum operasional yang disusun dan dilaksanakan oleh satuan pendidikan. KTSP berfungsi sebagai acuan yangmengarahkan seluruh pemangku kepentingan untuk fokus pada pencapaian tujuan, dengan menerapkan aturan, prosedur, dan program, serta proses kegiatan yang dikembangkan bersama dan ditetapkan oleh kepala satuan pendidikan sertakomite sekolah untuk memenuhi kebutuhan peserta didik dan lingkungan dalam menghadapi perubahan kehidupan di abad XXI yang dinamis. Sesuai dengan peraturan Menteri Pendidikan dan Kebudayaan No. 61 Tahun 2014 KTSP Sekolah Menengah Atas disahkan oleh Dinas Pendidikan dan Kebudayaan ProvinsiJawa Tengah."
+    },
+    {
+      "id": 11,
+      "user": "Suparman",
+      "images": "https://1.bp.blogspot.com/-1JHkdNcuSWE/YJX_wygam2I/AAAAAAAAHe4/TThmWTHHj0YwKQTewcIpVbTgZ0OINBHDQCLcBGAsYHQ/w400-h225-p-k-no-nu/Screenshot_2021-05-08%2BGoogle%2BChrome%2B86%2B0%2B4240%2B75%2BOffline%2BInstaller%2B.png",
+      "tanggal": "08-09-2021",
+      "kategori": "Teknologi",
+      "judul": "Free Download Google Chrome 86.0.4240.75 Offline Installer",
+      "isi": "Free Download Google Chrome 86.0.4240.75 Offline Installer - Software to access the internet : Google Chrome is a browser that combines a minimalist design with advanced technology to make the web faster, safer and easier. This computer software has the advantage of speed and attractive appearance. Behind its minimalist and simple appearance, Google Chrome has a myriad of features that are equivalent to other modern web browsers aka browser applications. You can find features such as multitab, bookmarks and additional functionality via extensions. This application is also integrated with several Google services, such as the feature to automatically translate web pages including Indonesian and Google search."
+    },
+    {
+      "id": 12,
+      "user": "Aprilo Ade Wismoyo",
+      "images": "https://nkriku.com/wp-content/uploads/2021/11/69837-gubernur-dki-jakarta-anies-baswedan.jpg",
+      "tanggal": "28-11-2021",
+      "kategori": "General",
+      "judul": "Soal Dampak Presidential Threshold, Refly Harun: yang Jagokan Anies Gigit Jari",
+      "isi": "Banyak pihak menginginkan agar peraturan tentang presidential threshold direvisi agar peserta pemilihan presiden lebih beragam latar belakangnya, tidak hanya berasal dari partai-partai besar saja."
+    },
+    {
+      "id": 13,
+      "user": "Lola Ramlan",
+      "images": "https://1.bp.blogspot.com/-krI_M3cAGWs/YJX9gusaVjI/AAAAAAAAHeo/5R_DDbLF5a8jHZ863PVRDGR-417EwQsVACLcBGAsYHQ/w400-h225-p-k-no-nu/Screenshot_2021-05-08%2Bsearch%2Bengine%2Bclick%2B-%2BGoogle%2BPenelusuran.png",
+      "tanggal": "13-11-2021",
+      "kategori": "Ekonomi",
+      "judul": "Best Pay Per Click Search Engine Options",
+      "isi": "Best Pay Per Click Search Engine Options - Pay Per Click advertising is a method of advertising that is currently taking the Internet world by storm; especially over the span of the past few years. And the best pay per click advertising campaigns have generated a significant amount of money in this time. Ever since the first pay per click search engine emerged, which is now known as Yahoo Search Marketing, PPC advertising has been a lucrative way to generate traffic and earn some money online."
+    },
+    {
+      "id": 14,
+      "user": "Mipan Susanti",
+      "images": "https://1.bp.blogspot.com/-VsDqkHBPGKM/YJX6Bm4qb1I/AAAAAAAAHeI/w2f7qMGSWukmUO_88DMCmKkHIByEdMIUQCLcBGAsYHQ/w400-h225-p-k-no-nu/Screenshot_2021-05-08%2BDownload%2BLDPlayer%2BAndroid%2BEmulator%2BTerbaru.png",
+      "tanggal": "12-12-2021",
+      "kategori": "Sports",
+      "judul": "Free Download LDPlayer Android Emulator Terbaru",
+      "isi": "Free Download LDPlayer Android Emulator Terbaru - LDPlayer Android Emulator adalah salah satu emulator android terbaru yang akan membantu anda untuk memainkan games android dari komputer atau laptop anda dengan cara yang mudah dan cepat. Saat ini semakin banyak orang yang menggunakan emulator untuk memainkan game android kesukaan mereka. Banyak alasan mengapa mereka lebih suka menggunakan emulator daripada langsung memainkannya di hp android. Selain tahan panas, untuk beberapa game juga lebih mudah dioperasikan menggunakan komputer daripada langsung di hp android."
+    },
+    {
+      "id": 15,
+      "user": "Jezreel Kosasih",
+      "images": "http://mybaity.com/wp-content/uploads/2018/08/Cara-Diet-Alami-Dalam-Waktu-Singkat.jpg",
+      "tanggal": "12-12-2021",
+      "kategori": "Lifestyle",
+      "judul": "7 Kebiasaan Praktis untuk Mulai Pola Hidup Sehat Sejak Dini",
+      "isi": "Pola hidup sehat perlu diterapkan dalam kehidupan sehari-hari untuk melindungi diri Anda dan keluarga dari berbagai penyakit yang merugikan. Sayangnya, gaya hidup sehat tidak datang begitu saja. Ada cara-cara hidup sehat yang perlu diketahui dan dipraktikkan sedini mungkin. Banyak orang merasa gaya hidup sehat itu tidak mudah, sehingga merasa kesulitan kemudian menyerah. Anda tak perlu khawatir mengalami hal yang sama. Ini lho, tujuh kebiasaan praktis yang bisa Anda lakukan untuk memulai pola hidup sehat sejak dini. 1. Tidur cukup Tidur cukup dan beristirahat dengan baik adalah rahasia awal kesehatan mental dan fisik. Untuk mendapatkannya secara maksimal, buat jadwal tidur yang tetap. Hindari membawa gadget ke tempat tidur. Mandi air hangat bisa membantu tubuh rileks dan mendapatkan tidur yang nyenyak. Berdasarkan saran WHO, tidur cukup bagi orang dewasa adalah sekitar 7-9 jam."
+    }, 
+    {
+      "id": 16,
+      "user": "Mamang Sutarman",
+      "images": "https://lh5.googleusercontent.com/proxy/bZ-YYB0NcEK0r8QXpcSA3cAJo2mYcmbOg4yMMQedIa4XnIMxGsbsF1MjeIQn7ED7htoy36Dtrp2d137Pb_eggF15rzpIZ8BDdMRLvnfWcE6LXX3zr5vxmF5s=w400-h225-p-k-no-nu",
+      "tanggal": "18-09-2021",
+      "kategori": "Kesehatan",
+      "judul": "Limbah Plastik vs Kaca. Mana yg Lebih Merusak Lingkungan?",
+      "isi": "Di pertanyaan itu, aku sudah bahas kalau kaca baru terdekomposisi setelah 1 juta tahun. Jika dibandingkan secara langsung, itu artinya kaca lebih sulit didekomposisi dibandingkan plastik yang waktu dekomposisi di alamnya hanya 450 tahun. Kaca memang tidak mudah teruraikan di alam karena sifat innert-nya, tetapi itu juga sisi positifnya berarti kaca tidak akan mencemari lingkungan. Kaca disusun oleh kristal silika yang ketika terpecah di alam sekalipun tidak akan terurai dan membentuk molekul atau senyawa kimia baru yang berbahaya bagi lingkungan."
+    }, 
+    {
+      "id": 17,
+      "user": "Lala Manurung",
+      "images": "https://1.bp.blogspot.com/-5b0x8kDg5zE/YIfmeqD15sI/AAAAAAAAHck/k1w4nPIDnmQb1WqdMEHSFSxXxBpxpdTewCLcBGAsYHQ/w400-h225-p-k-no-nu/IMG_20210427_172401.jpg",
+      "tanggal": "08-12-2021",
+      "kategori": "Pendidikan",
+      "judul": "Sistem Pendidikan Jepang bagi Anak-Anak",
+      "isi": "Pendidikan di Jepang - Pendidikan anak usia dini terbagi dalam dua bentuk, hoikuen atau yang biasa disebut penitipan anak dan youichien atau taman kanak-kanak. Di Jepang, suster atau babysitter bukanlah hal umum. Umumnya mereka mendidik sendiri putera-puterinya atau menitipkannya pada hoikuen, jika si ibu adalah wanita karier yang bekerja di luar rumah. Apa pun pilihan si ibu, anak diajari menjadi mandiri. Dimulai dari kebiasaan mendidik anak supaya bisa makan sendiri sampai usia dua tahun. Tidak heran jika si ibu sangat kreatif meracik makanan untuk anak. Misalnya nasi yang dibentuk bola-bola kecil hingga memudahkan anak untuk memakannya dengan sendok atau sumpit, sayuran dan lauk yang diiris kecil-kecil, ditambah alat makan lucu yang merangsang ketertarikan anak."
+    }, 
+    {
+      "id": 18,
+      "user": "Jeko Chan",
+      "images": "https://akcdn.detik.net.id/community/media/visual/2021/07/31/diet-defisit-kalori-untuk-kurangi-berat-badan-ini-aturan-dan-menunya-1.jpeg?w=700&q=90",
+      "tanggal": "13-12-2021",
+      "kategori": "Kesehatan",
+      "judul": "Apa Itu Kalori Defisit dan Mengapa harus Jadi Pedoman Turunkan Berat Badan?",
+      "isi": "Ketika memutuskan untuk diet agar bisa menurunkan berat badan, ada banyak metode atau cara yang bisa dilakukan, mulai dari olahraga hingga mengurangi porsi makanan. Namun sebenarnya yang paling utama dari berhasil tidaknya sebuah diet adalah adanya defisit kalori. Defisit kalori secara umum adalah kondisi di mana kalori yang masuk ke tubuh lebih sedikit dibandingkan jumlah kalori yang harus dibakar, dengan begitu secara alami tubuh akan menyesuaikan diri dengan cara membakar kalori yang tersimpan di dalam tubuh dalam bentuk lemak."
+    }, 
+    {
+      "id": 19,
+      "user": "Sahil Qurma",
+      "images": "https://1.bp.blogspot.com/-iI2vYqYEIDY/YCT9NRC9_UI/AAAAAAAAHVw/r0X1TdUtImwTgyJGX-TIUTyOly7aUfdzgCLcBGAsYHQ/s2048/pexels-artem-beliaikin-1114376.jpg",
+      "tanggal": "19-11-2021",
+      "kategori": "Ekonomi",
+      "judul": "Dropshipping business: an online business that is almost A without capital",
+      "isi": "Dropshipping business: an online business that is almost without capital - You must have heard of the dropshipping business, or maybe you are currently running one. This business model is very much practiced by urban people in Indonesia, especially millennials. Besides the practical way it works, the initial capital to start this business is very minimal. Even many people say the dropshipping business is a business without capital, is that right? For those of you who don't know, businessdropship is an online product sales system where the seller or retailer does not have to have their own product, does not need stock, and the capital is very small. The dropshipping business has a different system from resellers. Dropshipping business people don't have to buy goods first, just focus on marketing and doing customer service."
+    }, 
+    {
+      "id": 20,
+      "user": "Jeji Islan",
+      "images": "https://cms.sehatq.com/public/img/article_img/bermacam-macam-teknik-dasar-permainan-bola-basket-untuk-pemula-1610636332.jpg",
+      "tanggal": "07-12-2021",
+      "kategori": "Sports",
+      "judul": "Dasar-dasar dan Trik Bermain Basketball",
+      "isi": "Anda harus selalu siap dan tidak hanya asal cepat mengoper bola ke teman anda tapi harus dapat memperkirakan apakah teman anda nantinya bisa menangkapnya. Kalau ada lawan yang menghalangi jalan, pastikan anda mengarahkan temen anda ke mana mereka akan berlari supaya mereka tidak terlambat sewaktu menangkap bola operan anda. Sehabis mengoper bola, anda harus terus bergerak supaya anda siap untuk bermain lagi. Kalau bisa, anda berdiri dekat ring basket supaya teman anda bisa mengoper bola lagi dan anda tinggal melayup buat memasukkan bola karena lawan anda akan berhenti sejenak dan mengalihkan perhatiannya setelah anda mengoper bola ke teman anda. Sewaktu teman anda memegang bola, jagalah jalur lemparan supaya mereka mudah mengoper bola ke arah anda. Anda harus bisa menjauhkan bola dari jaring selagi bola mental sewaktu rebound. Kalau tidak, lawan anda punya kesempatan untuk merebut bola. Menjauhkan bola paling penting waktu anda dalam posisi bertahan. Anda juga harus tahu waktu lawan anda bermain bertahan, dan sewaktu tembakan ke jaring terjadi, anda harus cepat-cepat mendekat ke jaring supaya bisa memasukkan bola. Rebounders yang bagus biasanya ahli mengalihkan bola karena dengan begitu teman anda punya kesempatan merebut bola jika anda tidak dapat menguasainya."
+    },
+    {
+      "id": 21,
+      "user": "Gumawo Harakiri",
+      "images": "https://1.bp.blogspot.com/-o3IgqIQntLw/YAkTpbighdI/AAAAAAAAHSI/PJWSEDiomfseJ0WWBZL--9IsT2fOf-zFgCLcBGAsYHQ/w400-h244/Screenshot_2021-01-21%2Bvaksin%2Bcorona%2B-%2BGoogle%2BPenelusuran.png",
+      "tanggal": "05-11-2021",
+      "kategori": "Kesehatan",
+      "judul": "Efek Samping Vaksin Corona pada Seseorang",
+      "isi": "Vaksin Corona memang menjadi berita segar bagi seantero orang di seluruh dunia. Bagaimana tidak, keberadaan vaksin yang sudah mulai diluncurkan dan disuntikkan di berbagai negara ini sebagai sebuah harapan agar segera tertamengi setiap orang dari virus Corona. Berdasarkan penuturan Presiden Jokowi selaku orang pertama yang mendapatkan Vaksin Corona, memang sepertinya tidak merasakan gejala apapun. Namun demikian, berdasarkan informasi dari Komnas Kejadian Ikutan Pasca Imunisasi (KIPI) yang mendapatkan 28 laporan KIPI atau efek samping vaksin Corona Sinovac. Dijelaskan, sampai sekarang efek samping yang muncul karena suntukan vaksin masih tergolong ringan, seperti pegal hingga perubahan nafsu makan."
+    }
+  ]
+  

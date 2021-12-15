@@ -1,0 +1,146 @@
+<header class="header-default">
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-xl">
+            <!-- logo  -->
+            <a href="#" class="navbar-brand">
+                <img src="images/logo.svg" alt="">
+            </a>
+
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item dropdown active">
+                        <a [routerLink]="['']" class="nav-link dropdown-toggle">News</a>
+                        <ul class="dropdown-menu" >
+                            <li>
+                                <a href="#kategori" class="dropdown-item">Bussiness</a>
+                            </li>
+                            <li>
+                                <a href="#trending" class="dropdown-item">Trending</a>
+                            </li>
+                            <li>
+                                <a href="#editor" class="dropdown-item">Editor's Pick</a>
+                            </li>
+                            <li>
+                                <a href="#latest" class="dropdown-item">Latest Post</a>
+                            </li>
+                            <li>
+                                <a href="#inspiration" class="dropdown-item">Inspiration</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a [routerLink]="['blog']" class="nav-link">Blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a [routerLink]="['developer']" class="nav-link">Developer</a>
+                    </li>
+                    <li class="nav-item" *ngIf="authenticated">
+                        <a [routerLink]="['']" (click)="logout()" class="nav-link">Logout</a>
+                    </li>
+                    <li class="nav-item" *ngIf="!authenticated">
+                        <a [routerLink]="['login']" class="nav-link">Login</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- right side of header  -->
+            <div class="header-right">
+                <ul class="social-icons list-unstyled list-inline mb-0">
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fab fa-itunes"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fab fa-pinterest"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                    </li>
+                </ul>
+
+                <!-- buttons  -->
+                <div class="header-buttons">
+                    <button class="search icon-button">
+                        <i class="icon-magnifier"></i>
+                    </button>
+                    <button class="burger-menu icon-button">
+                        <span class="burger-icon"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+
+</header>
+
+    <!-- canvas menu  -->
+    <div class="canvas-menu d-flex align-items-end flex-column">
+        <button class="btn-close" aria-label="Close" type="button"></button>
+
+        <div class="logo">
+            <img src="images/logo.svg" alt="">
+        </div>
+        <nav>
+            <ul class="vertical-menu">
+                <li class="active">
+                    <a [routerLink]="['']">News</a>
+                    <ul class="submenu">
+                        <li><a href="#kategori">Bussiness</a></li>
+                        <li><a href="#trending">Trending</a></li>
+                        <li><a href="#editor">Editor's Pick</a></li>
+                        <li><a href="#latest">Latest Post</a></li>
+                        <li><a href="#inspiration">Inspiration</a></li>
+                    </ul>
+                </li>
+                <li><a [routerLink]="['blog']">Blog</a></li>
+                <li><a [routerLink]="['developer']">Developer</a></li>
+                <li *ngIf="authenticated"><a [routerLink]="['']" (click)="logout()">Logout</a></li>
+                <li *ngIf="!authenticated"><a [routerLink]="['login']">Login</a></li>
+            </ul>
+        </nav>
+
+
+        <ul class="social-icons list-unstyled list-inline mb-0 mt-auto w-100">
+            <li class="list-inline-item">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+            </li>
+            <li class="list-inline-item">
+                <a href="#"><i class="fab fa-twitter"></i></a>
+            </li>
+            <li class="list-inline-item">
+                <a href="#"><i class="fab fa-itunes"></i></a>
+            </li>
+            <li class="list-inline-item">
+                <a href="#"><i class="fab fa-pinterest"></i></a>
+            </li>
+            <li class="list-inline-item">
+                <a href="#"><i class="fab fa-youtube"></i></a>
+            </li>
+        </ul>
+    </div>
+
+
+    <!-- search pop up  -->
+    <div class="search-popup">
+        <button class="btn-close" aria-label="Close" type="button"></button>
+
+        <div class="search-content">
+            <div class="text-center">
+                <h3 class="mb-4 mt-0">Press ESC to close</h3>
+            </div>
+
+            <form action="" class="d-flex search-form">
+                <input type="search" placeholder="Search and press enter ..." aria-label="Search"
+                    class="form-control me-2">
+                <button class="btn btn-default btn-lg" type="submit">
+                    <i class="icon-magnifier"></i>
+                </button>
+            </form>
+        </div>
+    </div>
