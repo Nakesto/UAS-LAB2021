@@ -25,7 +25,7 @@ export class NavbarComponent implements OnInit {
 
 
   logout() {
-    localStorage.removeItem('role');
+    localStorage.removeItem('user');
     this.authenticated = '';
   }
 }

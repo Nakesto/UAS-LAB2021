@@ -11,7 +11,7 @@ export class ApiServiceService {
     constructor(private http: HttpClient) { }
 
     getNews(category: string) {
-        let url = `https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=5adde30b96484afabf0304b9751d0b9f`
+        let url = `https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=f097926ca952438aab7948e6f9a137c2`
         return this.http.get(url);
     }
 
